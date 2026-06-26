@@ -1,8 +1,25 @@
 # 🏥 Hospital Data Analysis — End-to-End SQL Project
 
+
+
 > A production-grade SQL project analyzing healthcare operations across patients, doctors, departments, billing, labs, and staff using **MySQL 8.0+**.
+## 🛠️ Tech Stack
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=flat)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)
 
 ---
+## 💡 Why This Project?
+
+As an aspiring Data Analyst, I wanted to go beyond toy datasets and build something
+that mirrors real-world complexity. Healthcare data involves multi-table relationships,
+financial KPIs, operational metrics, and advanced analytics — making it an ideal domain
+to demonstrate end-to-end SQL skills from schema design to window functions.
+
+This project simulates what a junior data analyst might actually do on their first week
+at a hospital analytics team.
 
 ## 📁 Project Structure
 
@@ -215,8 +232,15 @@ mysql -u root -p hospital_db < analysis/03_analysis_kpis_trends.sql
 
 ## 👤 Author
 
-Built as an end-to-end SQL portfolio project showcasing database design, realistic healthcare data modelling, and advanced MySQL analytics.
+**Rushikesh Jadhav**
+BCA Graduate | Aspiring Data Analyst & Data Scientist
 
+[![GitHub](https://img.shields.io/badge/GitHub-rushikesh--ds-181717?style=flat&logo=github)](https://github.com/rushikesh-ds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushikesh%20Jadhav-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rushikesh-jadhav-119b69276)
+
+---
+
+*Built as an end-to-end SQL portfolio project showcasing database design, realistic healthcare data modelling, and advanced MySQL analytics.*
 ---
 
 ## 📄 License
